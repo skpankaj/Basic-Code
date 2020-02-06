@@ -1,4 +1,4 @@
-/*Sunil(Nalanda,Bihar) & CO.....C++
+/*sarvendra kumar pankaj.....C++
 /*wap SUM 2 digit using self header file in c [self3.c]*/
 #include<stdio.h>
 #include<sum.h>
