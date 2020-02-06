@@ -1,4 +1,4 @@
-/*Sarvendra Kumar Pankaj*/
+/*Sunil (Nalanda,Bihar) & co......C++*/
 sound producing program*/
 #include <dos.h>
 
