@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+/*sarvendra kumar pankaj......C++
 using header file mulriplication[self2.c]*/
 #include<mult.h>
 main()
