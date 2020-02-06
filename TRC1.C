@@ -1,4 +1,4 @@
-/*Sunil (Nalanda,Bihar) & co......C++
+/*sarvendra kumar pankaj) & co......C++
 elder between three[tr1.c]*/
 #include<stdio.h>
 #include<conio.h>
