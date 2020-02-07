@@ -5,11 +5,11 @@ void main()
 int age;
 char sex;
 clrscr();
-printf("\t\t***qualification of insurance");
-printf("\n\n enter your age:" );
+printf("\t\t***Qualification of insurance");
+printf("\n\n Enter your Age:" );
 scanf("%d",&age);
 fflush(stdin);
-printf("\n\n enter your sex:");
+printf("\n\n Enter your Sex:");
 scanf("%c",&sex);
 
 if(sex=='m')
