@@ -10,7 +10,8 @@ int main(void)
 	int numArray[N]; // Define an array of four integers
     
 	// Get inputs for the array elements
-	for (i=0;i<N; i++) {
+	for (i=0;i<N; i++) 
+	{
     	scanf("%d", &numArray[i]);
 	}
 	
