@@ -4,8 +4,8 @@ void main()
 {
 int a,b,c,d;
 clrscr();
-printf("\t\t***find the largest number***" );
-printf("\n\n enter first number:");
+printf("\t\t***Find the Largest Number***" );
+printf("\n\n Enter first Number:");
 scanf("%d",&a);
 printf("\n\n enter the second number:");
 scanf("%d",&b);
@@ -23,6 +23,6 @@ else
 {
 printf("\n\n\t\tc is greatest:");
 }
-printf("\n\n thank you for using this programm");
+printf("\n\n Thank you for using this Programm");
 getch();
 }
