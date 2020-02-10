@@ -4,14 +4,14 @@ void main()
 {
 int a,b,c,d;
 clrscr();
-printf("\t\t***choose the largest number***");
-printf("\n\n enter first integer:");
+printf("\t\t***Choose the Largest Number***");
+printf("\n\n Enter First Integer:");
 scanf("%d",&a);
-printf("\n\n enter second integer:");
+printf("\n\n Enter Second Integer:");
 scanf("%d",&b);
-printf("\n\n enter third integer:");
+printf("\n\n Enter Third Integer:");
 scanf("%d",&c);
-printf("\n\n enter fourth integer:");
+printf("\n\n Enter Fourth Integer:");
 scanf("%d",&d);
 if(a>b)
 {
