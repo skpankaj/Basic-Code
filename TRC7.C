@@ -4,7 +4,7 @@ void main()
 {
 int n,b;
 clrscr();
-printf("\t\t***check the no even or odd***");
+printf("\t\t***Check the no even or odd***");
 printf("\n\nenter the koi number:");
 scanf("%d",&n);
 b=n%2;
