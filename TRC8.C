@@ -4,7 +4,7 @@ void main()
 {
 int b,p,s=1,i;
 clrscr();
-printf("\t\t***base power programm***");
+printf("\t\t***Base Power Programm***");
 printf("\n\nenter the base:");
 scanf("%d",&b);
 printf("\n\nenter the power:");
