@@ -32,6 +32,6 @@ if(per<30)
 {
 printf("fail");
 }
-printf("\n\n\t\t***thank you for using this programme***");
+printf("\n\n\t\t***Thank you for using this programme***");
 getch();
 }
