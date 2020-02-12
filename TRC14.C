@@ -4,7 +4,7 @@ void main()
 {
 int i,j;
 clrscr();
-printf("\t\t***program to print tree 1***\n");
+printf("\t\t***Program to print tree 1***\n");
 for(i=1;i<=5;i++)
 {
 for (j=1;j<=i;j++)
