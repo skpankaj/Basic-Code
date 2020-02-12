@@ -4,7 +4,7 @@ void main()
 {
 int i,n,b=1;
 clrscr();
-printf("\t\t***print the foactorial***");
+printf("\t\t***Print the foactorial***");
 printf("\n\nenter the number:");
 scanf("%d",&n);
 for(i=1;i<=n;i=i+1)
