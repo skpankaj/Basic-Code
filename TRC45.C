@@ -5,7 +5,7 @@ void main()
 {
 void increment(int*,int*);
 int a,b;
-printf("enter two number:");
+printf("Enter Two Number:");
 scanf("%d%d",&a,&b);
 increment(&a,&b);
 printf("\n%d\n%d",a,b);
